@@ -10,3 +10,7 @@ Major functions:
 - printInOrder
 
 All other functions are either helpers to the main functions or methods within the node class that help define nodes
+
+
+## Future Updates
+I wasnt allowed to post the schools judge code, so if I have the time I will make my own. Will have to come much later though
